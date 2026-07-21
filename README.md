@@ -31,6 +31,3 @@ task. Tool availability is determined when a task starts.
 - Store updates may change runtime details. Prefer the latest official package.
 - A visible plugin entry is not proof that its runtime transport works.
 
-## License
-
-MIT
